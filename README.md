@@ -5,10 +5,10 @@ Carousel component, using Swift language, version 0.1, still under development.
 ![Carousel](https://i.imgur.com/o41gcxn.png)
 
 ## Highlights
--This component is well-written, flexible and it has a clean code;
--The most challenging thing that I'm prouder of developing the component itself, which is useful, flexible and will help the community;
--The component uses CollectionView and PageControl;
--The component will be added as a third party lib using cocoapods;
+- This component is well-written, flexible and it has a clean code;
+- The most challenging thing that I'm prouder of developing the component itself, which is useful, flexible and will help the community;
+- The component uses CollectionView and PageControl;
+- The component will be added as a third party lib using cocoapods;
 
 ## Getting Started
 TODO: Add Info
