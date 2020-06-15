@@ -7,4 +7,5 @@ target 'Carousel' do
 
   # Pods for EmployeeDirectoryApp
   pod 'SDWebImage'
+  #pod 'CarouselComponent'
 end

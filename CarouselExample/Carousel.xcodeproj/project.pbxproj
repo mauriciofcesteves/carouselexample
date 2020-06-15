@@ -14,10 +14,6 @@
 		B69865872497030300FB2E3C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B69865852497030300FB2E3C /* Main.storyboard */; };
 		B69865892497030400FB2E3C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B69865882497030400FB2E3C /* Assets.xcassets */; };
 		B698658C2497030400FB2E3C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B698658A2497030400FB2E3C /* LaunchScreen.storyboard */; };
-		B698659424970F9700FB2E3C /* CarouselView.xib in Resources */ = {isa = PBXBuildFile; fileRef = B698659324970F9700FB2E3C /* CarouselView.xib */; };
-		B698659624970FF200FB2E3C /* CarouselView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B698659524970FF200FB2E3C /* CarouselView.swift */; };
-		B6986599249725F800FB2E3C /* CarouselCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6986597249725F800FB2E3C /* CarouselCollectionViewCell.swift */; };
-		B698659A249725F800FB2E3C /* CarouselCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = B6986598249725F800FB2E3C /* CarouselCollectionViewCell.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,10 +27,6 @@
 		B69865882497030400FB2E3C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B698658B2497030400FB2E3C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B698658D2497030400FB2E3C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		B698659324970F9700FB2E3C /* CarouselView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CarouselView.xib; sourceTree = "<group>"; };
-		B698659524970FF200FB2E3C /* CarouselView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarouselView.swift; sourceTree = "<group>"; };
-		B6986597249725F800FB2E3C /* CarouselCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarouselCollectionViewCell.swift; sourceTree = "<group>"; };
-		B6986598249725F800FB2E3C /* CarouselCollectionViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CarouselCollectionViewCell.xib; sourceTree = "<group>"; };
 		B8A7051C797164CE7DFA8CF0 /* Pods_Carousel.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Carousel.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -87,10 +79,6 @@
 				B69865882497030400FB2E3C /* Assets.xcassets */,
 				B698658A2497030400FB2E3C /* LaunchScreen.storyboard */,
 				B698658D2497030400FB2E3C /* Info.plist */,
-				B698659324970F9700FB2E3C /* CarouselView.xib */,
-				B698659524970FF200FB2E3C /* CarouselView.swift */,
-				B6986597249725F800FB2E3C /* CarouselCollectionViewCell.swift */,
-				B6986598249725F800FB2E3C /* CarouselCollectionViewCell.xib */,
 			);
 			path = Carousel;
 			sourceTree = "<group>";
@@ -165,8 +153,6 @@
 			files = (
 				B698658C2497030400FB2E3C /* LaunchScreen.storyboard in Resources */,
 				B69865892497030400FB2E3C /* Assets.xcassets in Resources */,
-				B698659A249725F800FB2E3C /* CarouselCollectionViewCell.xib in Resources */,
-				B698659424970F9700FB2E3C /* CarouselView.xib in Resources */,
 				B69865872497030300FB2E3C /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -220,10 +206,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B6986599249725F800FB2E3C /* CarouselCollectionViewCell.swift in Sources */,
 				B69865842497030300FB2E3C /* ViewController.swift in Sources */,
 				B69865802497030300FB2E3C /* AppDelegate.swift in Sources */,
-				B698659624970FF200FB2E3C /* CarouselView.swift in Sources */,
 				B69865822497030300FB2E3C /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
