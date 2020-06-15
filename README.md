@@ -1,6 +1,6 @@
-# Carousel UI Component
+# Carousel Sample App
 
-Carousel component, using Swift language, version 0.1, still under development.
+Carousel component, using Swift language, still under development at early stages.
 
 ![Carousel](https://i.imgur.com/o41gcxn.png)
 
@@ -11,13 +11,14 @@ Carousel component, using Swift language, version 0.1, still under development.
 - The component will be added as a third party lib using cocoapods;
 
 ## Getting Started
-TODO: Add Info
-
-### Prerequisites
-TODO: Add Info
+You will find instructions about the component at: [CarouselComponent](https://github.com/mauriciofcesteves/carouselcomponent)
 
 ### Installation
-TODO: Add usage instructions
+To install it, simply add the following line to your Podfile:
+
+```
+pod 'CarouselComponent'
+```
 
 ## Author
 * **Mauricio Esteves** - [mauriciofcesteves (Mauricio Esteves) · GitHub](https://github.com/mauriciofcesteves)
