@@ -1,18 +1,22 @@
 PODS:
-  - SDWebImage (5.4.0):
-    - SDWebImage/Core (= 5.4.0)
-  - SDWebImage/Core (5.4.0)
+  - CarouselComponent (0.5.0)
+  - SDWebImage (5.8.1):
+    - SDWebImage/Core (= 5.8.1)
+  - SDWebImage/Core (5.8.1)
 
 DEPENDENCIES:
+  - CarouselComponent (= 0.5.0)
   - SDWebImage
 
 SPEC REPOS:
   trunk:
+    - CarouselComponent
     - SDWebImage
 
 SPEC CHECKSUMS:
-  SDWebImage: 5bf6aec6481ae2a062bdc59f9d6c1d1e552090e0
+  CarouselComponent: 523bf2749862aa3361000cbe42609f0889c67bc7
+  SDWebImage: e3eae2eda88578db0685a0c88597fdadd9433f05
 
-PODFILE CHECKSUM: 65ff6504813d67e9e5aafe9a9481bc41effd37db
+PODFILE CHECKSUM: d073d62feb1d819a06cdd2feeac1c3d7e4975c65
 
-COCOAPODS: 1.8.4
+COCOAPODS: 1.9.3

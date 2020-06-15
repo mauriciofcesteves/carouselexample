@@ -1,0 +1,6 @@
+framework module CarouselComponent {
+  umbrella header "CarouselComponent-umbrella.h"
+
+  export *
+  module * { export * }
+}
