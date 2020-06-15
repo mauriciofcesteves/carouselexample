@@ -1,6 +1,6 @@
 # Carousel UI Component
 
-Carousel is an UI component.
+Carousel component, using Swift language, version 0.1, still under development.
 
 ![Carousel](https://i.imgur.com/o41gcxn.png)
 
